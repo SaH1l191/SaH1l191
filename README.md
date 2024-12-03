@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-haldankar-a0a536255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-haldankar-a0a536255/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asphaltking3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asphaltking30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asphaltking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asphaltking3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/asphaltking30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asphaltking30" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/asphaltking](https://leetcode.com/u/upsidedown102/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asphaltking3" height="30" width="40" /></a>
 <a href="https://www.notion.so/Sahil-Haldankar-a6c6efca7f7c4238bf7c37b685a4c180" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" height="30" width="40" /></a>
 </p>
 
