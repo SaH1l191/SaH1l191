@@ -17,7 +17,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upsidedown102 Leetcode" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/sahilhaldankar" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
 
