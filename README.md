@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript Next JS**
 
-- 📫 How to reach me: **random@gmail.com**
+- 📫 How to reach me: *haldankarsahil10@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
