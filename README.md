@@ -13,7 +13,7 @@
   <a href="https://codeforces.com/profile/asphaltking30" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asphaltking30 Codeforces" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/heapoverflow404/" target="_blank">
+  <a href="https://leetcode.com/u/heapoverflow40/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upsidedown102 Leetcode" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/sahilhaldankar" target="_blank">
