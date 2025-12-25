@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **NEXTJS**
 
 - 📫 How to reach me: *haldankarsahil10@gmail.com*
-- PortFolio at https://portfolio-rust-nine-34.vercel.app/
+- PortFolio at  https://next-js-portfolio-nu-lyart.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sahilhaldankar34830283/" target="_blank">
