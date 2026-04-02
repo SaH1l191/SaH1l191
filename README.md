@@ -2,7 +2,7 @@
 <h3 align="center">Wannabe Coder</h3>
 
 - 🌱 Aspiring Backend Developer
--  Learning **NEXTJS** & **Golang**
+-  Learning **System Design** & **Golang**
 
 - 📫 How to reach me: *haldankarsahil10@gmail.com*
 - PortFolio at  https://next-js-portfolio-nu-lyart.vercel.app/
