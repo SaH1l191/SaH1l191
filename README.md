@@ -17,7 +17,7 @@ Passionate about building scalable systems, solving engineering problems, and co
 🌍 Exploring global software engineering opportunities & building an international-ready profile <br/>
 📫 <b>Email:</b> haldankarsahil10@gmail.com <br/>
 🌐 <b>Portfolio:</b> 
-<a href="https://next-js-portfolio-nu-lyart.vercel.app/">
+<a href=["https://portfolio-26-nine-psi.vercel.app/">
 Visit Here
 </a>
 </p>
