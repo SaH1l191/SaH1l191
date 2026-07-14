@@ -50,23 +50,15 @@ Passionate about building scalable systems, solving engineering problems, and co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
-
 ---
-
 <h2 align="center">📚 Currently Learning</h2>
-
 <p align="center">
 ⚙️ System Design & Scalability <br/>
 🔄 Distributed Systems & Real-Time Architectures <br/>
 ☁️ DevOps, Networking & Cloud Fundamentals <br/>
 🐹 Golang for High Performance Backend Systems
 </p>
-
 ---
----
-
-<h2 align="center">🤝 Connect with Me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sahilhaldankar34830283/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
