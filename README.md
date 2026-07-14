@@ -63,27 +63,6 @@ Passionate about building scalable systems, solving engineering problems, and co
 </p>
 
 ---
-
-<h2 align="center">📊 Competitive Programming</h2>
-
-<p align="center">
-Sharpening problem-solving skills through DSA, contests, and online assessments.
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/asphaltking30" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/HardStuck_Newbie/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/sahilhaldankar" target="_blank">
-    <img src="https://img.icons8.com/color/48/codechef.png" height="30"/>
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🤝 Connect with Me</h2>
